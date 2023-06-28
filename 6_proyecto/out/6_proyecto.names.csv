@@ -1,0 +1,559 @@
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00030c 0000002c t __static_initialization_and_destruction_0(int, int)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0007bc 0000000e t _GLOBAL__sub_I_SysTick_Time_Flag
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000058 00000068 b statechart
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004648 00000020 t dscrc2x16_table
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000e10 0000007c t clearInEvents
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000e8c 00000006 t check_TECX_DEBOUNCE_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000e92 00000004 t check_TECX_NO_OPRIMIDO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000e96 00000004 t check_TECX_OPRIMIDO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000e9a 00000004 t check_TECX_VALIDACION_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000e9e 00000004 t check_TECX_VALIDACION_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000ea2 00000018 t check_Teclas_ESPERA_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000eba 0000002c t check_Teclas_ESPERA_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000ee6 00000022 t check_Teclas_ESPERA_tr2_tr2
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f08 00000022 t check_Teclas_ESPERA_tr3_tr3
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f2a 00000006 t check_Modo_Grupo_MANUAL_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f30 00000006 t check_Modo_Grupo_AUTOMATICO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f36 00000018 t check_Modo_Grupo_TRANSICION_MODOS_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f4e 00000016 t check_Modo_Grupo_TRANSICION_MODOS_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f64 00000004 t check_Servicio_Red_HAY_LUZ_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f68 00000006 t check_Servicio_Red_ESPERA_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f6e 00000004 t check_Servicio_Red_VALIDACION_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f72 00000004 t check_Servicio_Red_VALIDACION_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f76 00000004 t check_Servicio_Red_NO_HAY_LUZ_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f7a 00000006 t check_Grupo_Electrogeno_GRUPO_APAGADO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000f80 0000002a t check_Grupo_Electrogeno_CHEQUEO_ENCENDIDO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000faa 00000018 t check_Grupo_Electrogeno_CHEQUEO_ENCENDIDO_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000fc2 00000022 t check_Grupo_Electrogeno_CHEQUEO_ENCENDIDO_tr2_tr2
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000fe4 00000022 t check_Grupo_Electrogeno_CHEQUEO_ENCENDIDO_tr3_tr3
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001006 00000016 t check_Grupo_Electrogeno_ARRANQUE_EXITO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00101c 00000006 t check_Grupo_Electrogeno_ARRANQUE_EXITO_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001022 00000016 t check_Grupo_Electrogeno_FALLA_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001038 00000006 t check_Grupo_Electrogeno_FALLA_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00103e 00000006 t check_Grupo_Electrogeno_INICIO_ARRANQUE_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001044 00000020 t check_Grupo_Electrogeno_ESTABILIZACION_GRUPO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001064 00000018 t check_Grupo_Electrogeno_ESTABILIZACION_GRUPO_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00107c 00000006 t check_Grupo_Electrogeno_APAGANDO_GRUPO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001082 00000006 t check_Grupo_Electrogeno_ESPERA_GRUPO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001088 00000016 t check_Grupo_Electrogeno_ESPERA_GRUPO_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00109e 00000018 t check_Grupo_Electrogeno_CHEQUEO_APAGADO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0010b6 00000018 t check_Grupo_Electrogeno_CHEQUEO_APAGADO_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0010ce 0000000c t check_Display_IDLE_lr0_lr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0010da 00000016 t check_Display_IDLE_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0010f0 00000006 t check_Display_MOSTRAR_VALORES_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0010f6 00000006 t check_Conmutador_GRUPO_CONMUTADO_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0010fc 00000016 t check_Conmutador_GRUPO_CONMUTADO_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001112 00000018 t check_Conmutador_RED_CONMUTADA_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00112a 00000016 t check_Conmutador_RED_CONMUTADA_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001140 00000020 t check_Conmutador_SIN_CONMUTACION_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001160 00000020 t check_Conmutador_SIN_CONMUTACION_tr1_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001180 00000006 t check_Conmutador_CONMUTACION_INICIAL_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001186 00000004 t check_Sensor_Temp_IDLE_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00118a 00000006 t check_Sensor_Temp_LEYENDO_TEMP_tr0_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001190 00000006 t effect_Display_IDLE_lr0_lr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001196 0000000c t enact_TECX_OPRIMIDO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0011a2 0000000c t enact_Grupo_Electrogeno_ARRANQUE_EXITO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0011ae 0000000a t enseq_TECX_NO_OPRIMIDO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0011b8 00000012 t enseq_TECX_OPRIMIDO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0011ca 0000000a t enseq_TECX_VALIDACION_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0011d4 0000000a t enseq_Teclas_ESPERA_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0011de 0000000a t enseq_Servicio_Red_VALIDACION_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0011e8 00000012 t enseq_Grupo_Electrogeno_ARRANQUE_EXITO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0011fa 0000000a t enseq_Display_IDLE_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001204 0000000a t enseq_Sensor_Temp_IDLE_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00120e 00000008 t exseq_TECX_NO_OPRIMIDO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001216 00000008 t exseq_TECX_OPRIMIDO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00121e 00000010 t effect_TECX_OPRIMIDO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00122e 00000008 t exseq_TECX_VALIDACION
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001236 00000010 t effect_TECX_VALIDACION_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001246 00000010 t effect_TECX_VALIDACION_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001256 0000000a t exseq_Teclas_ESPERA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001260 00000016 t effect_Teclas_ESPERA_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001276 00000016 t effect_Teclas_ESPERA_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00128c 00000016 t effect_Teclas_ESPERA_tr2
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0012a2 00000016 t effect_Teclas_ESPERA_tr3
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0012b8 0000000a t exseq_Modo_Grupo_MANUAL
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0012c2 0000000a t exseq_Modo_Grupo_AUTOMATICO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0012cc 0000000a t exseq_Servicio_Red_HAY_LUZ
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0012d6 0000000a t exseq_Servicio_Red_VALIDACION
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0012e0 0000000a t exseq_Servicio_Red_NO_HAY_LUZ
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0012ea 0000000a t exseq_Grupo_Electrogeno_ARRANQUE_EXITO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0012f4 0000000a t exseq_Grupo_Electrogeno_FALLA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0012fe 0000000a t exseq_Grupo_Electrogeno_ESPERA_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001308 0000000a t exseq_Grupo_Electrogeno_FIN_ARRANQUE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001312 0000000a t exseq_Display_IDLE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00131c 0000000a t exseq_Conmutador_GRUPO_CONMUTADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001326 0000000a t exseq_Conmutador_RED_CONMUTADA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001330 0000000a t exseq_Conmutador_CONMUTACION_INICIAL
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00133a 0000000a t exseq_Sensor_Temp_IDLE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001344 00000014 t react_TECX_OPRIMIDO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001358 00000024 t react_TECX_VALIDACION
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00137c 00000042 t react_Teclas_ESPERA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0013be 00000008 t react_TECX__entry_Default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0013c6 00000008 t enseq_TECX_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0013ce 00000008 t react_Teclas__entry_Default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0013d6 00000008 t enseq_Teclas_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0013de 00000008 t react_Display__entry_Default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0013e6 00000008 t enseq_Display_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0013ee 00000008 t react_Sensor_Temp__entry_Default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0013f6 00000008 t enseq_Sensor_Temp_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0013fe 0000000c t enact_Modo_Grupo_MANUAL
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00140a 00000012 t enseq_Modo_Grupo_MANUAL_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00141c 00000008 t react_Modo_Grupo__entry_Default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001424 00000008 t enseq_Modo_Grupo_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00142c 00000018 t enact_Servicio_Red_HAY_LUZ
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001444 00000012 t enseq_Servicio_Red_HAY_LUZ_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001456 00000008 t react_Servicio_Red__entry_Default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00145e 00000008 t enseq_Servicio_Red_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001466 00000010 t effect_Servicio_Red_VALIDACION_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001476 0000000c t enact_Grupo_Electrogeno_ESPERA_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001482 00000012 t enseq_Grupo_Electrogeno_ESPERA_GRUPO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001494 00000008 t react_Grupo_Electrogeno__entry_Default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00149c 00000008 t enseq_Grupo_Electrogeno_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0014a4 0000000c t enact_Modo_Grupo_AUTOMATICO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0014b0 00000012 t enseq_Modo_Grupo_AUTOMATICO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0014c2 00000016 t enact_Servicio_Red_NO_HAY_LUZ
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0014d8 00000012 t enseq_Servicio_Red_NO_HAY_LUZ_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0014ea 00000010 t effect_Servicio_Red_VALIDACION_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0014fa 00000024 t react_Servicio_Red_VALIDACION
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00151e 00000010 t enact_Grupo_Electrogeno_FALLA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00152e 00000012 t enseq_Grupo_Electrogeno_FALLA_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001540 0000001e t enact_Conmutador_CONMUTACION_INICIAL
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00155e 00000012 t enseq_Conmutador_CONMUTACION_INICIAL_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001570 00000008 t react_Conmutador__entry_Default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001578 00000008 t enseq_Conmutador_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001580 0000000c t enact_Grupo_Electrogeno_FIN_ARRANQUE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00158c 00000012 t enseq_Grupo_Electrogeno_FIN_ARRANQUE_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00159e 00000012 t enact_Conmutador_RED_CONMUTADA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0015b0 00000012 t enseq_Conmutador_RED_CONMUTADA_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0015c2 00000010 t effect_Conmutador_CONMUTACION_INICIAL_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0015d2 00000014 t react_Conmutador_CONMUTACION_INICIAL
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0015e6 0000001c t enact_Conmutador_GRUPO_CONMUTADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001602 00000012 t enseq_Conmutador_GRUPO_CONMUTADO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001614 0000000c t exact_TECX_DEBOUNCE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001620 0000000e t exseq_TECX_DEBOUNCE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00162e 00000010 t effect_TECX_DEBOUNCE_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00163e 00000014 t react_TECX_DEBOUNCE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001652 00000018 t exact_Modo_Grupo_TRANSICION_MODOS
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00166a 00000010 t exseq_Modo_Grupo_TRANSICION_MODOS
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00167a 00000010 t effect_Modo_Grupo_TRANSICION_MODOS_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00168a 00000010 t effect_Modo_Grupo_TRANSICION_MODOS_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00169a 00000024 t react_Modo_Grupo_TRANSICION_MODOS
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0016be 0000000c t exact_Servicio_Red_ESPERA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0016ca 00000010 t exseq_Servicio_Red_ESPERA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0016da 00000010 t effect_Servicio_Red_ESPERA_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0016ea 00000014 t react_Servicio_Red_ESPERA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0016fe 0000000c t exact_Grupo_Electrogeno_GRUPO_APAGADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00170a 00000010 t exseq_Grupo_Electrogeno_GRUPO_APAGADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00171a 00000010 t effect_Grupo_Electrogeno_GRUPO_APAGADO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00172a 00000014 t react_Grupo_Electrogeno_GRUPO_APAGADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00173e 0000002c t exact_Grupo_Electrogeno_CHEQUEO_ENCENDIDO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00176a 00000010 t exseq_Grupo_Electrogeno_CHEQUEO_ENCENDIDO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00177a 00000010 t effect_Grupo_Electrogeno_CHEQUEO_ENCENDIDO_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00178a 00000010 t effect_Grupo_Electrogeno_CHEQUEO_ENCENDIDO_tr2
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00179a 00000010 t effect_Grupo_Electrogeno_CHEQUEO_ENCENDIDO_tr3
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0017aa 0000000c t exact_Grupo_Electrogeno_INICIO_ARRANQUE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0017b6 00000010 t exseq_Grupo_Electrogeno_INICIO_ARRANQUE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0017c6 00000010 t effect_Grupo_Electrogeno_INICIO_ARRANQUE_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0017d6 00000014 t react_Grupo_Electrogeno_INICIO_ARRANQUE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0017ea 00000018 t exact_Grupo_Electrogeno_ESTABILIZACION_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001802 00000010 t exseq_Grupo_Electrogeno_ESTABILIZACION_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001812 0000000c t exact_Grupo_Electrogeno_APAGANDO_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00181e 00000010 t exseq_Grupo_Electrogeno_APAGANDO_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00182e 00000018 t exact_Grupo_Electrogeno_CHEQUEO_APAGADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001846 00000010 t exseq_Grupo_Electrogeno_CHEQUEO_APAGADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001856 0000000c t exact_Display_MOSTRAR_VALORES
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001862 00000010 t exseq_Display_MOSTRAR_VALORES
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001872 00000010 t effect_Display_MOSTRAR_VALORES_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001882 00000014 t react_Display_MOSTRAR_VALORES
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001896 00000018 t exact_Conmutador_SIN_CONMUTACION
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0018ae 00000010 t exseq_Conmutador_SIN_CONMUTACION
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0018be 00000010 t effect_Conmutador_SIN_CONMUTACION_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0018ce 00000010 t effect_Conmutador_SIN_CONMUTACION_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0018de 00000024 t react_Conmutador_SIN_CONMUTACION
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001902 0000000c t exact_Sensor_Temp_LEYENDO_TEMP
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00190e 00000010 t exseq_Sensor_Temp_LEYENDO_TEMP
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00191e 00000010 t effect_Sensor_Temp_LEYENDO_TEMP_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00192e 00000014 t react_Sensor_Temp_LEYENDO_TEMP
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001942 00000010 t enact_TECX_DEBOUNCE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001952 00000012 t enseq_TECX_DEBOUNCE_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001964 00000010 t effect_TECX_NO_OPRIMIDO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001974 00000014 t react_TECX_NO_OPRIMIDO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001988 00000024 t enact_Modo_Grupo_TRANSICION_MODOS
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0019ac 00000012 t enseq_Modo_Grupo_TRANSICION_MODOS_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0019be 00000014 t effect_Modo_Grupo_MANUAL_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0019d2 00000014 t react_Modo_Grupo_MANUAL
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0019e6 00000014 t effect_Modo_Grupo_AUTOMATICO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0019fa 00000014 t react_Modo_Grupo_AUTOMATICO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001a0e 00000012 t enact_Servicio_Red_ESPERA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001a20 00000012 t enseq_Servicio_Red_ESPERA_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001a32 00000010 t effect_Servicio_Red_HAY_LUZ_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001a42 00000014 t react_Servicio_Red_HAY_LUZ
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001a56 00000010 t effect_Servicio_Red_NO_HAY_LUZ_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001a66 00000014 t react_Servicio_Red_NO_HAY_LUZ
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001a7a 00000028 t enact_Grupo_Electrogeno_INICIO_ARRANQUE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001aa2 00000012 t enseq_Grupo_Electrogeno_INICIO_ARRANQUE_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001ab4 00000010 t effect_Grupo_Electrogeno_CHEQUEO_ENCENDIDO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001ac4 00000042 t react_Grupo_Electrogeno_CHEQUEO_ENCENDIDO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001b06 00000010 t effect_Grupo_Electrogeno_ESPERA_GRUPO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001b16 00000010 t effect_Grupo_Electrogeno_ESPERA_GRUPO_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001b26 00000024 t react_Grupo_Electrogeno_ESPERA_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001b4a 0000001e t enact_Grupo_Electrogeno_APAGANDO_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001b68 00000012 t enseq_Grupo_Electrogeno_APAGANDO_GRUPO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001b7a 00000010 t effect_Grupo_Electrogeno_ARRANQUE_EXITO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001b8a 00000010 t effect_Grupo_Electrogeno_ARRANQUE_EXITO_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001b9a 00000024 t react_Grupo_Electrogeno_ARRANQUE_EXITO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001bbe 00000010 t effect_Grupo_Electrogeno_CHEQUEO_APAGADO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001bce 0000003e t enact_Grupo_Electrogeno_GRUPO_APAGADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001c0c 00000012 t enseq_Grupo_Electrogeno_GRUPO_APAGADO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001c1e 00000010 t effect_Grupo_Electrogeno_FALLA_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001c2e 00000010 t effect_Grupo_Electrogeno_FALLA_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001c3e 00000024 t react_Grupo_Electrogeno_FALLA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001c62 00000010 t effect_Grupo_Electrogeno_CHEQUEO_APAGADO_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001c72 00000024 t react_Grupo_Electrogeno_CHEQUEO_APAGADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001c96 00000024 t enact_Grupo_Electrogeno_ESTABILIZACION_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001cba 00000012 t enseq_Grupo_Electrogeno_ESTABILIZACION_GRUPO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001ccc 00000010 t effect_Grupo_Electrogeno_FIN_ARRANQUE_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001cdc 00000008 t react_Grupo_Electrogeno_FIN_ARRANQUE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001ce4 00000042 t enact_Conmutador_SIN_CONMUTACION
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001d26 00000012 t enseq_Conmutador_SIN_CONMUTACION_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001d38 00000018 t effect_Conmutador_GRUPO_CONMUTADO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001d50 00000018 t effect_Conmutador_GRUPO_CONMUTADO_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001d68 00000024 t react_Conmutador_GRUPO_CONMUTADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001d8c 00000018 t effect_Conmutador_RED_CONMUTADA_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001da4 00000018 t effect_Conmutador_RED_CONMUTADA_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001dbc 00000024 t react_Conmutador_RED_CONMUTADA
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001de0 00000050 t enact_Grupo_Electrogeno_CHEQUEO_ENCENDIDO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001e30 00000012 t enseq_Grupo_Electrogeno_CHEQUEO_ENCENDIDO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001e42 00000016 t effect_Grupo_Electrogeno_ESTABILIZACION_GRUPO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001e58 00000010 t effect_Grupo_Electrogeno_ESTABILIZACION_GRUPO_tr1
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001e68 00000024 t react_Grupo_Electrogeno_ESTABILIZACION_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001e8c 0000003a t enact_Grupo_Electrogeno_CHEQUEO_APAGADO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001ec6 00000012 t enseq_Grupo_Electrogeno_CHEQUEO_APAGADO_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001ed8 00000010 t effect_Grupo_Electrogeno_APAGANDO_GRUPO_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001ee8 00000014 t react_Grupo_Electrogeno_APAGANDO_GRUPO
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001efc 0000001a t enact_Display_MOSTRAR_VALORES
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001f16 00000012 t enseq_Display_MOSTRAR_VALORES_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001f28 00000016 t effect_Display_IDLE_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001f3e 00000024 t react_Display_IDLE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001f62 0000001a t enact_Sensor_Temp_LEYENDO_TEMP
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001f7c 00000012 t enseq_Sensor_Temp_LEYENDO_TEMP_default
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001f8e 00000010 t effect_Sensor_Temp_IDLE_tr0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001f9e 00000014 t react_Sensor_Temp_IDLE
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004668 00000004 t InitClkStates
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00466c 00000074 t pinmuxing
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002480 00000044 t Board_LED_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0024c4 00000040 t Board_TEC_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002504 00000040 t Board_GPIO_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002544 00000030 t Board_ADC_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002574 00000038 t Board_SPI_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0025ac 00000024 t Board_I2C_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0046e4 00000008 t GpioButtons
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0046ec 0000000c t GpioLeds
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0046f8 00000012 t GpioPorts
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00262c 00000014 t Chip_SSP_GetClockIndex
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002640 00000018 t Chip_SSP_GetPeriphClockIndex
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000000 00000038 d i2c
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002930 00000014 t Chip_ADC_GetClockIndex
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002944 00000032 t getClkDiv
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004710 00000048 t InitClkStates
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002c94 000000a0 t pll_calc_divs
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002d34 0000010c t pll_get_frac
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002e40 0000004c t Chip_Clock_FindBaseClock
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0030b4 00000022 t Chip_Clock_GetDivRate
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000220 00000008 b audio_usb_pll_freq
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004764 0000006c t periph_to_base
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003220 0000002c t Chip_UART_GetIndex
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0047d0 00000008 t UART_BClock
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0047d8 00000008 t UART_PClock
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000038 00000004 d ClockSpeed
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0033d0 00000034 t gpioObtainPinInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000228 00000004 b callBackFuncParams
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000230 00000008 b tickCounter
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000238 00000004 b tickHookFunction
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1000023c 00000004 b g_hUsb
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0048c8 00000058 t rounders
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003b08 00000038 t pcf8574TGpioPortWrite
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003b40 00000028 t pcf8574TGpioWrite
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003b68 00000008 t lcdPinSet
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003b70 0000002e t lcdSendNibble
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003b9e 0000001c t lcdEnablePulse
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003bbc 0000002c t pcf8574TGpioPortInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003be8 00000018 t pcf8574TInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000240 0000000a b lcd
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1000024a 00000001 b pcf8574TGpioPortDirections
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1000024b 00000001 b pcf8574TGpioPortValue
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000048 00000001 d pcf8574TI2cAddress
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00492c t __init_array_end
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004924 b __preinit_array_end
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004924 t __init_array_start
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004924 b __preinit_array_start
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000ab4 0000000c T DallasTemperature::getTempC(unsigned char const*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002ed8 0000001c T Chip_Clock_GetDividerSource
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000050 00000001 B SysTick_Time_Flag
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002af6 0000000e T Chip_I2CM_Xfer
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003684 00000038 T i2cInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000184 00000002 W DebugMon_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003e48 0000001c T lcdSendFloat
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W RIT_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001ff8 00000034 T proyecto_enter
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a080000 A __top_MFlashA512
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000114 T __section_table_start
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004180 0000005a T __floatdidf
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W I2C0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002624 00000008 T __stdio_init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00017a 00000002 W HardFault_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000348 0000000c T proyectoIface_switchSalida
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000aec 00000014 T DallasTemperature::DallasTemperature(OneWire*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002700 00000120 T handleMasterXferState
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000000 A __vectors_start__
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0029ea 0000000c T Chip_ADC_SetResolution
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0037bc 0000002c T SysTick_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002342 00000002 W initialise_monitor_handles
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W SDIO_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000186 00000002 W PendSV_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000178 00000002 W NMI_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004934 R __exidx_end
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000150 T __data_section_table_end
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W I2C1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000986 00000012 T DallasTemperature::isConversionComplete()
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W UART1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000a0a 0000002a T DallasTemperature::requestTemperatures()
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W CAN1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:53ff554a A __valid_user_code_checksum
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002218 00000006 T proyectoIface_get_temperatura
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004934 R _etext
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W USB1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W I2S0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0022fe 00000044 T UpdateTimers
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003156 0000000c T Chip_Clock_GetBaseClocktHz
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W UART0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000de0 00000030 T OneWire::crc8(unsigned char const*, unsigned char)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001a8 00000012 T bss_init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0022ac 0000002e T IsPendEvent
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000300 0000000c T myTickHook(void*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0022da 00000024 T MarkAsAttEvent
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004108 00000022 T __floatsidf
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0028ac 00000030 T Chip_I2C_MasterStateHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000924 00000062 T DallasTemperature::begin()
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00427c T __aeabi_uldivmod
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1000031c ? _noinit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1000024c 00000004 B SystemCoreClock
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00324c 00000054 T Chip_UART_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W ADC0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000180 00000002 W UsageFault_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0031d4 0000004c T Chip_Clock_GetRate
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000658 0000002a T Buttons_GetStatus_()
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002408 0000006c T Board_SetupClocking
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0021c0 00000012 T proyecto_raiseTimeEvent
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:20008000 A __top_RamAHB32
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0040e8 0000001e T __aeabi_ui2d
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000644 00000014 T proyecto_unsetTimer
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00287c 00000030 T Chip_I2C_SetMasterEventHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0042ac 000002d0 T __udivmoddi4
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003e64 T __aeabi_drsub
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0046e0 00000004 T ExtRateIn
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000b00 0000006e T OneWire::reset()
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W IntDefaultHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000882 0000004a T DallasTemperature::readScratchPad(unsigned char const*, unsigned char*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002210 00000004 T proyectoIface_get_conmutacionRed
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000300 T __CRP_WORD_END__
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003dfc 00000038 T lcdSendChar
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GPIO1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003d6e 00000014 T lcdCursorSet
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0039f0 00000028 T floatToStringGlobal
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00412c 00000042 T __extendsfdf2
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W SSP0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003e70 00000276 T __adddf3
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000998 00000020 T DallasTemperature::millisToWaitForConversion(unsigned char)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00492c R __exidx_start
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0002fc 00000004 T CRP_WORD
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0021d2 00000006 T proyectoIface_raise_evTECXNoOprimido
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004580 00000048 T __libc_init_array
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a001fb2 00000046 T proyecto_init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0040e8 0000001e T __floatunsidf
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W ADC1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0008cc 00000022 T DallasTemperature::isConnected(unsigned char const*, unsigned char*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0025f4 00000030 T Board_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0023ce 00000002 W _init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000114 T __data_section_table
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0005f8 00000030 T proyectoIface_guardarTemp
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000ae8 00000004 T DallasTemperature::setAlarmHandler(void (*)(unsigned char const*))
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0041dc 0000009e T __aeabi_d2f
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W RTC_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1000031c B _ebss
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002344 00000088 T Reset_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003740 0000007c T tickInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:20010000 A __top_RamAHB_ETB16
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W SPI_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002b04 00000024 T Chip_I2CM_XferBlocking
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003878 00000178 T floatToString
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002844 00000038 T Chip_I2C_SetClockRate
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W LCD_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002e8c 0000004c T Chip_Clock_EnableCrystal
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000840 00000042 T DallasTemperature::getAddress(unsigned char*, unsigned char)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10008000 A __top_RamLoc32
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003e70 00000276 T __aeabi_dadd
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00018a 0000001e T data_init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004170 0000006a T __aeabi_ul2d
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002206 00000006 T proyectoIface_get_grupoFalla
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002820 00000024 T Chip_I2C_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002246 00000032 T SetNewTimerTick
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000ca2 00000018 T OneWire::reset_search()
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003e34 00000014 T lcdSendString
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W UART2_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000a8c 00000028 T DallasTemperature::rawToCelsius(short)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003048 0000006c T Chip_Clock_GetMainPLLHz
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0047e0 000000e6 T gpioPinsInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002658 00000012 T Chip_SSP_SetClockRate
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000a64 00000028 T DallasTemperature::getTemp(unsigned char const*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GPIO2_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003130 00000026 T Chip_Clock_GetBaseClock
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000ac0 00000028 T DallasTemperature::getTempCByIndex(unsigned char)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000828 00000018 T DallasTemperature::validAddress(unsigned char const*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003c68 000000a4 T lcdInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000050 B _bss
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0029b8 00000032 T Chip_ADC_SetSampleRate
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003e6c 0000027a T __aeabi_dsub
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004170 0000006a T __floatundidf
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0021fc 00000004 T proyectoIface_get_modoGrupo
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W I2S1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00266a 0000003e T Chip_SSP_SetBitRate
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00292c 00000002 T Chip_GPIO_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00470c 00000004 T OscRateIn
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003a18 0000005a T delayInaccurateMs
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000cd6 0000010a T OneWire::search(unsigned char*, bool)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1000031c ? _end_noinit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10008000 A _vStackTop
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W SSP1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002214 00000004 T proyectoIface_get_conmutacionGrupo
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003c38 00000030 T lcdData
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000178 T __bss_section_table_end
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004108 00000022 T __aeabi_i2d
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003404 000001ac T gpioInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00457c 00000002 W __aeabi_ldiv0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003c00 00000038 T lcdCommand
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000354 00000010 T proyectoIface_grupoStatus
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003dd4 00000028 T lcdSendEnter
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0021f2 00000006 T proyectoIface_raise_leerTemp
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0037e8 0000001c T USB0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0028dc 00000018 T Chip_I2C_IsStateChanged
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W SCT_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002ef4 0000001c T Chip_Clock_GetDividerDivisor
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0002fc T __CRP_WORD_START__
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0045c8 00000010 T memset
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00221e 00000006 T proyectoIface_set_temperatura
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00017c 00000002 W MemManage_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00068c 00000130 T main
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00220c 00000004 T proyectoIface_get_numDisplay
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W WDT_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002278 00000034 T UnsetTimerTick
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:2000c000 A __top_RamAHB16
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1008a000 A __top_RamLoc40
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000182 00000002 W SVC_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003d98 0000003c T lcdCreateChar
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0041dc 0000009e T __truncdfsf2
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:100000c0 00000014 B oneWireObjeto
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000254 000000c8 B globalStrConvertBuff
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a004180 0000005a T __aeabi_l2d
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0008ee 00000036 T DallasTemperature::readPowerSupply(unsigned char const*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000628 0000001c T proyecto_setTimer
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003164 0000003c T Chip_Clock_EnableOpts
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002f10 000000b8 T Chip_Clock_GetClockInputHz
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002fc8 00000080 T Chip_Clock_CalcMainPLLValue
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000cba 0000001c T OneWire::begin(unsigned char)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000c96 0000000c T OneWire::skip()
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00337c 00000038 T SystemInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003ad0 00000038 T delay
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W QEI_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000150 T __bss_section_table
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0035b0 0000006a T gpioWrite
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0023cc 00000002 W _fini
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0009b8 00000052 T DallasTemperature::blockTillConversionComplete(unsigned char)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002200 00000006 T proyectoIface_get_grupoExito
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002978 00000040 T Chip_ADC_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000b6e 00000062 T OneWire::write_bit(unsigned char)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000250 00000004 B g_pUsbApi
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0023d0 00000038 T Board_SetupMuxing
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003d0c 00000050 T lcdGoToXY
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0032a0 000000dc T Chip_UART_SetBaudFDR
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0036fc 0000000c T tickRead
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000040 00000008 D tickRateMS
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W ETH_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000000 ? _end_uninit_RESERVED
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:100000f0 00000130 B ticks
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000aec 00000014 T DallasTemperature::DallasTemperature(OneWire*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1b000000 T __core_m0app_START__
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003d82 00000016 T lcdSendStringRaw
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W CAN0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0029f6 00000100 T Chip_I2CM_XferHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002224 00000022 T InitTimerTicks
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:10000000 D _data
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003708 00000020 T tickCallbackSet
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1000031c B _pvHeapStart
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000178 T __section_table_end
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0026a8 00000038 T Chip_SSP_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0028f4 00000038 T Chip_I2C_EventHandlerPolling
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GINT0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W DAC_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00202c 00000194 T proyecto_runCycle
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0036bc 00000040 T i2cWrite
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0025d0 00000024 T Board_Debug_Init
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1000004c D _edata
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0026e0 00000020 T Chip_I2C_EventHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002b28 00000158 T Chip_SetupCoreClock
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0021d8 00000008 T proyectoIface_raise_evTECXOprimido
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000bd0 00000042 T OneWire::read_bit()
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GPIO0_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000364 00000294 T proyectoIface_displayValores
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000812 00000016 T DallasTemperature::setOneWire(OneWire*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000000 00000040 T g_pfnVectors
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002c80 00000014 T SystemCoreClockUpdate
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W DMA_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W EVRT_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1b080000 A __top_MFlashB512
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003d5c 00000012 T lcdClear
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003a72 0000005c T delayInaccurateUs
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00457c 00000002 W __aeabi_idiv0
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000c4e 00000022 T OneWire::read()
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:100000d4 0000001c B sensorDS18B20
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000338 00000010 T proyectoIface_opLED
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00017e 00000002 W BusFault_Handler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0031a0 00000034 T Chip_Clock_Enable
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W UART3_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000c70 00000026 T OneWire::select(unsigned char const*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W M0APP_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00361a 00000068 T gpioRead
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a00412c 00000042 T __aeabi_f2d
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003804 00000074 T boardInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000a34 00000030 T DallasTemperature::calculateTemperature(unsigned char const*, unsigned char*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0021e0 00000006 T proyectoIface_raise_inputRedFalse
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000040 000000d4 T g_pfnVendorVectors
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003e6c 0000027a T __subdf3
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GINT1_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000682 00000008 T RED_Status_(gpioMap_t)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a000c12 0000003c T OneWire::write(unsigned char, unsigned char)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a003728 00000018 T tickPowerSet
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0021f8 00000004 T proyectoIface_get_estadoLuz
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0021e6 00000006 T proyectoIface_raise_inputRedTrue
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0007ca 00000048 T DallasTemperature::validFamily(unsigned char const*)
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0030d8 00000058 T Chip_Clock_SetBaseClock
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0033b4 0000001c T cyclesCounterInit
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a0021ec 00000006 T proyectoIface_raise_showDisplay
+examples/c/sapi/statecharts/6_proyecto/out/6_proyecto.elf:1a002474 0000000c T Board_SystemInit
